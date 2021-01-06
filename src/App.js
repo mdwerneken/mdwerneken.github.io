@@ -1,4 +1,4 @@
-import logo from './theadmiral.JPG';
+import logo from './images/dantheman.jpg';
 import './App.css';
 
 function App() {
