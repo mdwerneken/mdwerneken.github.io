@@ -11,7 +11,7 @@ function App() {
         
         <h1>Whoopsie!</h1>
       </header>
-      <p>You must be looking for <a color="NavyBlue" href="mdwerneken.github.io/jade-practice-proj/">My JADE Practice Project!</a></p>
+      <p>You must be looking for <a color="NavyBlue" href="/jade-practice-proj/">My JADE Practice Project!</a></p>
     </div>
   );
 }
