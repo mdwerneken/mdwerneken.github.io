@@ -17,7 +17,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 93vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,8 +41,8 @@
 
 @keyframes App-logo-change {
   from {
-    height: 40vmin;
-    width: 40vmin;
+    height: 50vmin;
+    width: 50vmin;
   }
   to {
     height: 20vmin;
